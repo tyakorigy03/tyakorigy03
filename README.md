@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tyakorigy03
-- 👀 I’m interested in web development and android studio developme
+- 👀 I’m interested in web development and android studio development
 
 
 <!---
